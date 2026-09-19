@@ -5,6 +5,8 @@ A minimal starter setup for practicing Data Structures and Algorithms.
 ## Structure
 
 - `problems/` - problem statements and notes
+- `notes/python/` - reusable Python concept notes
+- `notes/python/faang-prep/` - organized interview-preparation notes
 - `solutions/python/` - Python solutions
 - `tests/python/` - Python unit tests
 
